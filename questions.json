@@ -1,0 +1,115 @@
+
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which moon is the largest in our solar system?",
+      "options": [
+        "Ganymede",
+        "Luna",
+        "Titan",
+        "Triton"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Which planet has the most confirmed moons?",
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Mars"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3,
+      "question": "What is the most distant hypothesized reservoir of objects orbiting the Sun?",
+      "options": [
+        "Kuiper Belt",
+        "Sedna",
+        "The Asteroid Belt",
+        "The Oort Cloud"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "Approximately how long until the Sun becomes a red giant?",
+      "options": [
+        "Tomorrow",
+        "5 billion years",
+        "7.6 billion years",
+        "6 million years"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which tiny animal is famous for surviving direct exposure to outer space?",
+      "options": [
+        "Cockroaches",
+        "Earthworms",
+        "Tardigrades",
+        "Elephants"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which planet has the greatest gravitational influence on the Sun?",
+      "options": [
+        "Planet X",
+        "Jupiter",
+        "Saturn",
+        "Callisto"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which planet has hydrogen sulfide in its clouds, a gas associated with a rotten-egg smell?",
+      "options": [
+        "Uranus",
+        "Venus",
+        "Earth",
+        "Jupiter"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 8,
+      "question": "Approximately how far is the edge of the observable universe from Earth?",
+      "options": [
+        "13.8 billion light years",
+        "7 light days",
+        "46.5 billion light years",
+        "43.6 billion light years"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which colour indicates the hottest surface temperature for a main-sequence star?",
+      "options": [
+        "Blue",
+        "White",
+        "Orange",
+        "Purple"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 10,
+      "question": "Approximately how old is the Milky Way?",
+      "options": [
+        "13.6 billion years",
+        "6.7 billion years",
+        "18.4 billion years",
+        "3 months"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}
